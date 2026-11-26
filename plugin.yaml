@@ -1,0 +1,12 @@
+name: motta-guardrails
+version: 0.1.0
+display_name: Motta Guardrails
+description: >
+  Guardrails cockpit for Hermes Agent — scope/intent enforcement, PII/injection
+  integration, prompt-leak protection, tool-call policy, cost circuit breaker,
+  LLM-as-judge, grounding checks, adversarial self-test, and an
+  OpenTelemetry-native observability bridge. Configured per project.
+author: Fabio Motta (fabiomotta0311)
+license: MIT
+homepage: https://github.com/fabiomotta0311/hermes-guardrails-plugin
+entry_point: hermes_guardrails
