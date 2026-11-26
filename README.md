@@ -2,7 +2,7 @@
 
 # Motta Guardrails
 
-**Helps teams shipping AI agents to clients prove — not promise — that the agent won't go off-script, leak data, or blow the budget.**
+If you're putting an AI agent in front of real clients, you need certainty — not hope — that it will stay on-script, protect customer data, and never blow through budget. When it doesn't, the cost isn't a bug report, it's legal exposure or a client relationship. Motta Guardrails gives you that certainty: one control panel where you define what your agent can and can't do, get notified automatically when it strays, and hand your own client's legal or compliance team a report proving it's under control — not just a promise that it is.
 
 *For engineers: guardrails for agents that ship. Not for agents that demo.*
 

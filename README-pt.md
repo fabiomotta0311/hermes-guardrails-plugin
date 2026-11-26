@@ -2,7 +2,7 @@
 
 # Motta Guardrails
 
-**Ajuda quem entrega agentes de IA pra cliente a provar — não prometer — que o agente não sai do roteiro, não vaza dado e não estoura o orçamento.**
+Se você está colocando um agente de IA na frente de cliente real, você precisa de certeza — não esperança — de que ele vai manter o roteiro, proteger o dado do cliente e não estourar o orçamento. Quando isso falha, o custo não é um bug report, é exposição jurídica ou relação com cliente queimada. O Motta Guardrails te dá essa certeza: um painel único onde você define o que o agente pode e não pode fazer, é avisado automaticamente quando ele sai da linha, e consegue entregar pro jurídico/compliance do seu próprio cliente um relatório provando que está sob controle — não só a promessa de que está.
 
 *Pra quem é técnico: guardrails pra agentes que vão pra produção. Não pra agentes que só fazem demo.*
 
