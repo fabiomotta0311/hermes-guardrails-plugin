@@ -2,7 +2,9 @@
 
 # Motta Guardrails
 
-**Guardrails for agents that ship. Not for agents that demo.**
+**Helps teams shipping AI agents to clients prove — not promise — that the agent won't go off-script, leak data, or blow the budget.**
+
+*For engineers: guardrails for agents that ship. Not for agents that demo.*
 
 A single cockpit inside Hermes Agent for everything the market already calls "Guardrails" — scope, PII, injection, system prompt leakage, cost, LLM-as-judge, and continuous adversarial self-testing. Configured per project, with coverage mapped to the reference frameworks (NeMo Guardrails, OWASP LLM Top 10) — not a pile of disconnected scripts hoping it holds in production.
 
