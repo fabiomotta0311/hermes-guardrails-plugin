@@ -103,7 +103,7 @@ Escalada Multi-turno .... 6/8  bloqueados (75%)  ⚠ abaixo do threshold configu
 | LLM06 Excessive Agency | Tool Call Guard |
 | LLM07 System Prompt Leakage | Prompt Leak Guard |
 | LLM08 Vector and Embedding Weaknesses | Grounding Check |
-| LLM09 Overreliance | Judge + Confidence Threshold |
+| LLM09 Overreliance (edição 2023/2024 do OWASP LLM Top 10 — rotulado "Misinformation" em revisões posteriores do OWASP) | Judge + Confidence Threshold |
 | LLM10 Unbounded Consumption | Cost Circuit Breaker |
 
 ## Módulos
