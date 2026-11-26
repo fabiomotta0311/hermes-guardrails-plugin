@@ -79,7 +79,7 @@ def load_policy(project: str) -> dict:
     return data
 
 
-def resolve_for_channel(policy: dict, channel: str = None) -> dict:
+def resolve_for_channel(policy: dict, channel: "str | None" = None) -> dict:
     """Merge a channel-specific override on top of the project defaults.
     Channel keys only override the top-level keys they explicitly set;
     everything else falls back to the project default.
